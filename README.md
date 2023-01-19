@@ -1,2 +1,3 @@
 # best-repo-ever
-Learning to use Git and Github with Salesforce.
+Learning to use Git and Github with SF.
+Git - VCS
